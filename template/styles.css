@@ -42,7 +42,7 @@ main{
 }
 
 .subtitle{
-    margin: 1rem 0;
+    margin: 1.1rem 0;
     width: 40%;
     text-align: center;
     color: var(--subtitle);
